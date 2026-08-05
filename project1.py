@@ -1,0 +1,7 @@
+print("********************************")
+print("*      PYTHON LEARNING APP      *")
+print("********************************")
+print("Welcome to Python 365 Challenge!")
+print("Name : Varshitha")
+print("Goal : Become a Software Developer")
+print("********************************")
